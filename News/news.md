@@ -1,7 +1,21 @@
 # Industrial cybersecurity news
 
+
 ---
-## [VULNERABILITES] Mitsubishi Controllers MELSEC iQ-R
+## [VULNERABILITIES] Moxa EDR-G902/G903
+
+_15/06/2020_
+```
+Moxa EDR-G902 and G903 Moxa products in version 5.4 or lower are affected by a stack buffer overflow vulnerability through the use of a malicious cookie. A patch has been released. 
+```
+
+> ###### Sources :
+- [EN] [Moxa](https://www.moxa.com/en/support/support/security-advisory/edr-g902-g903-series-secure-routers-vulnerabilities)
+- [FR] [CERTFR-2020-AVI-373](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-373/)
+
+
+---
+## [VULNERABILITIES] Mitsubishi Controllers MELSEC iQ-R
 
 _12/06/2020_
 ```
@@ -55,7 +69,7 @@ On [VMware carbonblack](https://www.carbonblack.com/2020/01/27/threat-analysis-u
   - [EN] [Dragos](https://www.dragos.com/blog/industry-news/ekans-ransomware-and-ics-operations/)
 
 ---
-## [VULNERABILITES] Schneider Electric Easergy
+## [VULNERABILITIES] Schneider Electric Easergy
 
 _10/06/2020_
 ```
@@ -79,7 +93,7 @@ _10/06/2020_
 
 ---
 
-## [VULNERABILITES] Siemens
+## [VULNERABILITIES] Siemens
 _09/10/2020_
 
 ```
