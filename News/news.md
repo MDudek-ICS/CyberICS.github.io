@@ -1,5 +1,31 @@
 # Industrial cybersecurity news
 
+---
+## [VULNERABILITIES] Rockwell 
+
+_15/06/2020_
+```
+Multiple vulnerabilities have been discovered in RockWell Automation software.
+The following products are impacted :
+- FactoryTalk Linx versions 6.00, 6.10, and 6.11
+- RSLinx Classic v4.11.00 and prior
+- Connected Components Workbench: Version 12 and prior
+- ControlFLASH: Version 14 and later
+- ControlFLASH Plus: Version 1 and later
+- FactoryTalk Asset Centre: Version 9 and later
+- FactoryTalk Linx CommDTM: Version 1 and later
+- Studio 5000 Launcher: Version 31 and later
+- Studio 5000 Logix Designer software: Version 32 and prior
+```
+
+> ###### CVE :
+> - [CVE-2020-11999](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11999)
+> - [CVE-2020-12001](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12001)
+> - [CVE-2020-12003](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12003)
+> - [CVE-2020-12005](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12005)
+> ###### Sources :
+- [EN] [CERT-US](https://www.us-cert.gov/ics/advisories/icsa-20-163-02)
+
 
 ---
 ## [VULNERABILITIES] Moxa EDR-G902/G903
