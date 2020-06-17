@@ -1,6 +1,53 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITES] Multiple important vulnerabilities on Schneider-electric products
+
+_17/06/2020_
+```
+Several Schneider-electric products are impacted by important vulnerabilities:
+ - U.motion Servers (SQL Injection, Improper Access Control )
+ - Touch Panels (SQL Injection, Improper Access Control )
+ - Unity Loader (Hard-coded Credentials)
+ - OS Loader Software (Hard-coded Credentials)
+ - EcoStruxure Operator Terminal Expert 3.1 Service Pack 1 (Path Traversal, Argument Injection, SQL Injection)
+ - GP-Pro EX V1.00 to V4.09.100 (Weak password)
+ - Easergy T300 (Traffic interception, read configuration data,  third party components vulnerability, risky cryptographic algorithm, raad private keys, privileges elevation, delete files, full access by brute force, DoS, directory information exposure, execution code, CSRF )
+ - Modicon M218 Logic Controller (DoS)
+```
+
+> ###### CVE :
+> - [CVE-2020-7500](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7500)
+> - [CVE-2020-7499](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7499)
+> - [CVE-2020-7498](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7498)
+> - [CVE-2020-7497](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7497)
+> - [CVE-2020-7496](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7496)
+> - [CVE-2020-7495](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7495)
+> - [CVE-2020-7494](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7494)
+> - [CVE-2020-7493](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7493)
+> - [CVE-2020-7492](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7492)
+> - [CVE-2020-7513](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7513)
+> - [CVE-2020-7512](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7512)
+> - [CVE-2020-7511](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7510)
+> - [CVE-2020-7510](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7510)
+> - [CVE-2020-7509](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7509)
+> - [CVE-2020-7508](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7508)
+> - [CVE-2020-7507](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7507)
+> - [CVE-2020-7506](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7506)
+> - [CVE-2020-7505](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7505)
+> - [CVE-2020-7504](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7504)
+> - [CVE-2020-7503](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7503)
+> - [CVE-2020-7502 ](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7502 )
+> ###### Sources :
+- [EN] [SE](https://www.se.com/ww/en/download/document/SEVD-2020-133-03/)
+- [EN] [SE](https://www.se.com/ww/en/download/document/SEVD-2020-161-02)
+- [EN] [SE](https://www.se.com/ww/en/download/document/SEVD-2020-133-04)
+- [EN] [SE](https://www.se.com/ww/en/download/document/SEVD-2020-161-04)
+- [EN] [SE](https://www.se.com/ww/en/download/document/SEVD-2020-133-01/)
+- [EN] [SE](https://www.se.com/ww/en/download/document/SEVD-2020-161-01)
+
+
+---
 ## [VULNERABILITIES] Rockwell 
 
 _15/06/2020_
@@ -32,7 +79,8 @@ The following products are impacted :
 
 _15/06/2020_
 ```
-Moxa EDR-G902 and G903 Moxa products in version 5.4 or lower are affected by a stack buffer overflow vulnerability through the use of a malicious cookie. A patch has been released. 
+Moxa EDR-G902 and G903 Moxa products in version 5.4 or lower are affected by a stack buffer overflow vulnerability through the use of a malicious cookie. 
+A patch has been released. 
 ```
 
 > ###### Sources :
