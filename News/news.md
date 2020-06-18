@@ -1,11 +1,11 @@
 # Industrial cybersecurity news
 
 ---
-## [VULNERABILITES] Rippl20
+## [VULNERABILITES] Ripple20
 
 _18/06/2020_
 ```
-DE vulnerabilities concerning the TCP/IP stack of Treck, Inc. 
+Ripple20 vulnerabilities concerning the TCP/IP stack of Treck, Inc. 
 These vulnerabilities impact notably Schneider Electric and Rockwell Automation equipment.
 The list of assigned vendors is in the (source) article in JSOF.
 ```
