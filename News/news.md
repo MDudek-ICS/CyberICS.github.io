@@ -1,6 +1,37 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITES] Rippl20
+
+_18/06/2020_
+```
+DE vulnerabilities concerning the TCP/IP stack of Treck, Inc. 
+These vulnerabilities impact notably Schneider Electric and Rockwell Automation equipment.
+The list of assigned vendors is in the (source) article in JSOF.
+```
+
+> ###### CVE :
+> - [CVE-2020-11896](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11896)
+> - [CVE-2020-11897](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11897)
+> - [CVE-2020-11901](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11901)
+> - [CVE-2020-11898](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11898)
+
+> ###### Sources :
+- [EN] [JSOF](https://www.jsof-tech.com/ripple20/)
+- [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SESB-2020-168-01/)
+- [EN] [Rockwell Automation - login required](https://idp.rockwellautomation.com/adfs/ls/idpinitiatedsignon.aspx?RelayState=RPID%3Drockwellautomation.custhelp.com%26RelayState%3Danswers%2Fanswer_view%2Fa_id%2F1126896)
+- [EN] [BitDefender](https://www.bitdefender.com/box/blog/iot-news/19-zero-day-vulnerabilities-affect-millions-iot-devices-worldwide/)
+- [EN] [Claroty](https://blog.claroty.com/research/ripple20-new-remote-code-execution-vulnerabilities-affect-millions-of-devices)
+- [EN] [POC on Youtube](https://youtu.be/jkfNE_Twa1s)
+
+---
+## [RESSOURCES] The Honeypot in a SCADA environment in 2020.
+
+_18/06/2020_
+
+> [Cybereason](https://www.cybereason.com/blog/cybereason-honeypot-multistage-ransomware)
+
+---
 ## [VULNERABILITES] Multiple important vulnerabilities on Schneider-electric products
 
 _17/06/2020_
