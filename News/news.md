@@ -17,6 +17,7 @@ The list of assigned vendors is in the (source) article in JSOF.
 > - [CVE-2020-11898](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11898)
 
 > ###### Sources :
+- [FR] [FR](https://www.welivesecurity.com/fr/2020/06/19/ripple-centaines-millions-vulnerables/)
 - [EN] [JSOF](https://www.jsof-tech.com/ripple20/)
 - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SESB-2020-168-01/)
 - [EN] [Rockwell Automation - login required](https://idp.rockwellautomation.com/adfs/ls/idpinitiatedsignon.aspx?RelayState=RPID%3Drockwellautomation.custhelp.com%26RelayState%3Danswers%2Fanswer_view%2Fa_id%2F1126896)
