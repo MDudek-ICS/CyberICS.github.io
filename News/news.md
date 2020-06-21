@@ -24,7 +24,7 @@ The list of assigned vendors is in the (source) article in JSOF.
 - [EN] [BitDefender](https://www.bitdefender.com/box/blog/iot-news/19-zero-day-vulnerabilities-affect-millions-iot-devices-worldwide/)
 - [EN] [Claroty](https://blog.claroty.com/research/ripple20-new-remote-code-execution-vulnerabilities-affect-millions-of-devices)
 - [EN] [POC on Youtube](https://youtu.be/jkfNE_Twa1s)
-
+- [EN] [Yara rules Github](https://github.com/CERTCC/PoC-Exploits/blob/master/vu-257161/vu-257161.rules) 
 ---
 ## [RESSOURCES] The Honeypot in a SCADA environment in 2020.
 
@@ -154,10 +154,12 @@ Publication FR : [EKANS ransomware PDF](https://github.com/CyberSecICS/CyberSecI
 - SHA-256 : `e5262db186c97bbe533f0a674b08ecdafa3798ea7bc17c705df526419c168b60`
 >
 >File at Honda :
+- MAIL : `CarrolBidell@tutanota.com`
 - SHA2-256 : `d4da69e424241c291c173c8b3756639c654432706e7def5025a649730868c4a1`
 - NDD      : `mds.honda.com`
 >
 >File at Enel :
+- MAIL : `CarrolBidell@tutanota.com`
 - SHA2-256 : `edef8b955468236c6323e9019abb10c324c27b4f5667bc3f85f3a097b2e5159a`
 - NDD      : `enelint.global`
 >
