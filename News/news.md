@@ -1,6 +1,26 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITES] OSIsoft PI System
+
+_22/06/2020_
+```
+OTORIO researchers discovered an XSS stored in version 1.12.0.6346 and earlier of OSIsoft PI System (developed by PI System).
+To exploit the vulnerability, it is necessary to have access to the storage engine of the PI Server.
+Risks : phishing, privilege escalation.
+A patch has been released. 
+```
+
+> ###### CVE :
+> - [CVE-2020-12021](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12021)
+
+> ###### Sources :
+- [EN] [CERT US](https://www.us-cert.gov/ics/advisories/icsa-20-163-01)
+- [EN] [Security Week](https://www.securityweek.com/vulnerability-osisoft-pi-system-can-facilitate-attacks-critical-infrastructure)
+- [EN] [PoC on YouTube](https://www.youtube.com/watch?v=_xxX9KUPaR0)
+- [EN] [Patch - loggin required](https://customers.osisoft.com/s/knowledgearticle?knowledgeArticleUrl=000028352)
+
+---
 ## [VULNERABILITES] Ripple20
 
 _18/06/2020_
