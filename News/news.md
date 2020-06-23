@@ -1,6 +1,32 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITES] Mitsubishi Electric and its subsidiary ICONICS
+
+_23/06/2020_
+```
+Several critical flaws have been discovered in Mitsubishi equipment and its subsidiary ICONICS.
+The vulnerabilities allow remote code execution (RCE).
+The following products are affected :
+    GENESIS64
+    Hyper Historian
+    AnalytiX
+    MobileHMI
+    GENESIS32
+    BizViz
+The following pieces of equipment are also affected:
+    MC Works64 Version 4.02C (10.95.208.31) and earlier, all versions
+    MC Works32 Version 3.00A (9.50.255.02)
+```
+
+> ###### Sources :
+- [EN] [Mitsubishi Electric - pdf](https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2020-002_en.pdf)
+- [EN] [ICONICS](https://iconics.com/Support/CERT)
+- [EN] [CERT US](https://www.us-cert.gov/ics/advisories/icsa-20-170-02)
+- [EN] [CERT US](https://www.us-cert.gov/ics/advisories/icsa-20-170-03)
+- [EN] [Security Week](https://www.securityweek.com/mitsubishi-patches-vulnerabilities-disclosed-ics-hacking-contest)
+
+---
 ## [VULNERABILITES] OSIsoft PI System
 
 _22/06/2020_
