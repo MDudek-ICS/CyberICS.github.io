@@ -1,6 +1,22 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITES] FactoryTalk - Rockwell Automation
+
+_24/06/2020_
+```
+A vulnerability in the redundancy service (RdcyHost.exe) in FactoryTalk (Rockwell Automation) does not verify credentials. 
+By exploiting this vulnerability an attacker can execute remote code with high privileges.
+```
+
+> ###### CVE :
+> - [CVE-2020-12033](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12033)
+
+> ###### Sources :
+- [EN] [CERT US](https://www.us-cert.gov/ics/advisories/icsa-20-170-04)
+- [EN] [Rockwell Automation - login required](https://rockwellautomation.custhelp.com/app/answers/detail/a_id/1126946)
+
+---
 ## [VULNERABILITES] Mitsubishi Electric and its subsidiary ICONICS
 
 _23/06/2020_
