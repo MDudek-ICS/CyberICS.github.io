@@ -1,6 +1,33 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITES] Ripple20 - update
+
+_30/06/2020_
+```
+New industrial equipment is vulnerable to Ripple20 :
+    - FANUC Robotic
+    - Control Techniques (NIDEC)
+    - B&B Electronics      
+    - Mitsubishi Electric       
+    - Schweitzer Engineering     
+```
+
+> ###### Sources :
+- [EN] [Armis](https://www.armis.com/resources/iot-security-blog/armis-sees-and-stops-ripple20-exploits/)
+
+---
+## [ATTACK] French wind infrastructure attack
+
+_30/06/2020_
+```
+The French newspaper l'Express revealed that a custom version of the Blackenergy malware had been discovered in the installations of a wind farm in Enedis.
+```
+
+> ###### Sources :
+- [FR] [L'Express](https://www.epresse.fr/magazine/l-express/2020-06-25/sommaire)
+
+---
 ## [VULNERABILITES] FactoryTalk - Rockwell Automation
 
 _24/06/2020_
