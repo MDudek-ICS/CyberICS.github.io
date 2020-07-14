@@ -1,6 +1,23 @@
 # Industrial cybersecurity news
 
 ---
+
+## [VULNERABILITES] Moxa MGate 5105-MB-EIP
+
+_14/07/2020_
+```
+Two vulnerabilities have been discovered in the Moxa MGate 5105-MB-EIP product (Firmware Version 4.2 or lower)
+```
+> ###### CVE :
+> - [CVE-2020-15494](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15494)
+> - [CVE-2020-15493](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15493)
+
+> ###### Sources :
+- [FR] [CERT FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-424/)
+- [EN] [Moxa](https://www.moxa.com/en/support/support/security-advisory/mgate-5105-mb-eip-series-protocol-gateways-vulnerabilities)
+- [EN] [Moxa patch page](https://www.moxa.com/en/support/product-support/software-and-documentation/search?psid=50026)
+
+---
 ## [VULNERABILITES] Ripple20 - update
 
 _30/06/2020_
