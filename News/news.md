@@ -2,6 +2,77 @@
 
 ---
 
+## [VULNERABILITES] Siemens
+
+_16/07/2020_
+```
+The products affected are :
+ - Opcenter Execution Discrete prior to v3.2
+ - Opcenter Execution Foundation prior to v3.2
+ - Opcenter Execution Process prior to v3.2
+ - Opcenter Execution Core prior to v8.2
+ - Opcenter Intelligence
+ - Opcenter Quality prior to 11.3
+ - Opcenter RD&L prior to 8.1
+ - Camstar Enterprise Platform : a migration to Opcenter Execution Core 8.2 is required
+ - SIMATIC IT LMS, Production Suite, Notifier Server for Windows, PCS neo
+ - SIMATIC STEP 7 (TIA Portal) v15
+ - SIMATIC STEP 7 (TIA Portal) v16 prior to V16 update 2
+ - SIMOCODE ES and Soft Starter ES
+ - SPPA-T3000 Application Server and Terminal Server
+ - SPPA-T3000 APC UPS with NMC AP9630 or AP9631
+ - SIMATIC S7-200 SMART CPU prior to V2.5.1
+ - LOGO! 8 BM (and SIPLUS) prior to V1.81.04
+ - LOGO! 8 BM (and SIPLUS) prior to V1.82.03
+ - LOGO! 8 BM (and SIPLUS) prior to V1.82.04
+ - SIMATIC S7-300 CPU (and ET200CPUs et SIPLUS) prior to V3.X.17
+ - SIMATIC TDC CP51M1 prior to V1.1.8
+ - SIMATIC TDC CPU555 prior to V1.1.1
+ - SINUMERIK 840D sl prior to V4.8.6
+ - SINUMERIK 840D sl prior to V4.94
+ - SIMATIC HMI Basic Panels first and second generation, Comfort Panels, Mobile Panels second-generation (and SIPLUS)
+ - SIMATIC HMI KTP700F Mobile Arctic
+ - SIMATIC WinCC Runtime Advanced
+ - SICAM MMU prior to V2.05
+ - SICAM SGU
+ - SICAM T prior to V2.18
+```
+> ###### CVE :
+> - [EN] [CVE-2020-7581](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7581)
+> - [EN] [CVE-2020-7587](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7587)
+> - [EN] [CVE-2020-7588](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7588)
+> - [EN] [CVE-2020-11896](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11896)
+> - [EN] [CVE-2020-0545](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-0545)
+> - [EN] [CVE-2020-7576](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7576)
+> - [EN] [CVE-2020-7577](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7577)
+> - [EN] [CVE-2020-7578](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7578)
+> - [EN] [CVE-2020-7584](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7584)
+> - [EN] [CVE-2020-7593](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7593)
+> - [EN] [CVE-2019-18336](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-18336)
+> - [EN] [CVE-2020-7592](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7592)
+> - [EN] [CVE-2020-10037](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10037)
+> - [EN] [CVE-2020-10038](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10038)
+> - [EN] [CVE-2020-10039](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10039)
+> - [EN] [CVE-2020-10040](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10040)
+> - [EN] [CVE-2020-10041](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10041)
+> - [EN] [CVE-2020-10042](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10042)
+> - [EN] [CVE-2020-10043](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10043)
+> - [EN] [CVE-2020-10044](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10044)
+> - [EN] [CVE-2020-10045](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10045)
+
+> ###### Sources :
+- [FR] [CERT FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-439/) 
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-841348.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-631949.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-604937.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-589181.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-573753.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-508982.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-364335.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-305120.pdf)
+
+---
+
 ## [VULNERABILITES] Moxa MGate 5105-MB-EIP
 
 _14/07/2020_
