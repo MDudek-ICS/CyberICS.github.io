@@ -6,7 +6,7 @@ Ressources :
 Resources on malicious actors targeting industrial systems :
 - [EN] [Russia APT ecosystem](https://apt-ecosystem.com/russia/map/)
 - [EN] [Dragos Mitre Attack for Industrial System](https://hub.dragos.com/hubfs/Whitepaper-Downloads/Mapping-Industrial-Cybersecurity-Threats-to-MITRE-ATTACK-for-ICS.pdf)
-- [EN] [Dragos](https://www.dragos.com/threat-activity-groups/)
+- [EN] [Dragos threat group](https://www.dragos.com/threat-activity-groups/)
 
 Publications :
 
