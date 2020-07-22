@@ -1,5 +1,24 @@
 # Industrial cybersecurity news
 
+
+---
+## [ATTACK] Cyber attack on Israeli water infrastructure
+
+_22/07/2020_
+```
+The hackers would have targeted cellular routers in order to get into the systems.
+The April attacks appeared to target several water and sewage treatment facilities.
+Last week's attacks were aimed at smaller water pumping systems in the agricultural sector.
+According to Securityweek, the attackers managed to get into the system without causing significant damage.
+The recent cyber attacks on a major Iranian port appear to be Israel's response, although neither side has admitted to launching an attack.
+```
+
+> ###### Sources :
+- [FR] [I24News](https://www.i24news.tv/fr/actu/israel/diplomatie-defense/1594963783-israel-de-nouvelles-cyberattaques-frappent-des-infrastructures-hydrauliques)
+- [EN] [Znet](https://www.zdnet.com/article/two-more-cyber-attacks-hit-israels-water-system/)
+- [EN] [Cybersecurity Insiders](https://www.cybersecurity-insiders.com/cyber-attack-on-israel-water-system/)
+- [EN] [Secuirtyweek](https://www.securityweek.com/vulnerable-cellular-routers-targeted-latest-attacks-israel-water-facilities)
+
 ---
 
 ## [VULNERABILITES] Siemens
