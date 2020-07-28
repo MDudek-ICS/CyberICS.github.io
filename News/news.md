@@ -19,8 +19,8 @@ The most impactful attack allows to take full control of the equipment. Accordin
 > - [EN - Secomea gateway] [CVE-2020-14498](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14498)
 > - [EN - Secomea gateway] [CVE-2020-14510](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14510)
 > - [EN - Secomea gateway] [CVE-2020-14512](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14512)
-> - [EN - Moxa EDR-G902] [CVE-2020-14511 ](http://cve.mitre.org/cgi-bin/cvename.cgi?name= CVE-2020-14511 )
-> - [EN - Ewon's] [CVE-2020-14498](http://cve.mitre.org/cgi-bin/cvename.cgi?name= CVE-2020-14498)
+> - [EN - Moxa EDR-G902] [CVE-2020-14511 ](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14511)
+> - [EN - Ewon's] [CVE-2020-14498](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14498)
 
 > ###### Sources :
 - [EN] [Claroty](https://www.claroty.com/2020/07/28/vpn-security-flaws/)
