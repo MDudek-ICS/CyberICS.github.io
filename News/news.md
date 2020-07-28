@@ -2,6 +2,33 @@
 
 
 ---
+
+## [VULNERABILITES] Industrial VPN servers
+
+_28/07/2020_
+```
+The following revenues are affected : 
+- Secomea GateManager (RCE / DoS / Hard-coed credentials)
+- Moxa EDR-G902/3 (RCE) 
+- HMS Networks' eWon (RCE)
+The most impactful attack allows to take full control of the equipment. According to the Shodan tool 253 instances of VPN are vulnerable.
+ Secomea and Moxa patch are available.
+```
+> ###### CVE :
+> - [EN - Secomea gateway] [CVE-2020-14500](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14500)
+> - [EN - Secomea gateway] [CVE-2020-14498](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14498)
+> - [EN - Secomea gateway] [CVE-2020-14510](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14510)
+> - [EN - Secomea gateway] [CVE-2020-14512](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14512)
+> - [EN - Moxa EDR-G902] [CVE-2020-14511 ](http://cve.mitre.org/cgi-bin/cvename.cgi?name= CVE-2020-14511 )
+> - [EN - Ewon's] [CVE-2020-14498](http://cve.mitre.org/cgi-bin/cvename.cgi?name= CVE-2020-14498)
+
+> ###### Sources :
+- [EN] [Claroty](https://www.claroty.com/2020/07/28/vpn-security-flaws/)
+- [EN] [Claroty](https://www.claroty.com/2020/07/15/cve-2020-14511/)
+- [EN] [Security week](https://www.securityweek.com/industrial-systems-can-be-hacked-remotely-vpn-vulnerabilities) 
+- [EN] [Secomea patch](https://kb.secomea.com/helpdesk/KB/View/25546482-downloads-gatemanager)
+
+---
 ## [ATTACK] Cyber attack on Israeli water infrastructure
 
 _22/07/2020_
