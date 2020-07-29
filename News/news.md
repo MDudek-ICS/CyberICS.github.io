@@ -27,6 +27,7 @@ The most impactful attack allows to take full control of the equipment. Accordin
 - [EN] [Claroty](https://www.claroty.com/2020/07/15/cve-2020-14511/)
 - [EN] [Security week](https://www.securityweek.com/industrial-systems-can-be-hacked-remotely-vpn-vulnerabilities) 
 - [EN] [Secomea patch](https://kb.secomea.com/helpdesk/KB/View/25546482-downloads-gatemanager)
+- [EN] [The hackernews](https://thehackernews.com/2020/07/industrial-vpn-security.html)
 
 ---
 ## [ATTACK] Cyber attack on Israeli water infrastructure
