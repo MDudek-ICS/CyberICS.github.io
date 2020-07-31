@@ -1,5 +1,24 @@
 # Industrial cybersecurity news
 
+---
+## [VULNERABILITES] Schneider Electric Triconex 
+_31/07/2020_
+```
+The following equipment is affected by several vulnerabilities (RCE, DoS and data leak) :
+ - TriStation 1131 versions prior to 4.13.0
+ - Tricon TCM Model 4351, 4352, 4351A/B and 4352A/B versions prior to 10.5.4
+```
+> ###### CVE :
+> - [EN] [CVE-2020-7483](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7483)
+> - [EN] [CVE-2020-7484](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7484)
+> - [EN] [CVE-2020-7485](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7485)
+> - [EN] [CVE-2020-7486](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7486)
+> - [EN] [CVE-2020-7491](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7491)
+
+> ###### Sources :
+- [FR] [CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-480/)
+- [EN] [US-CERT](https://us-cert.cisa.gov/ics/advisories/icsa-20-205-01)
+- [EN] [Schneider Electric](https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SESB-2020-105-01_Legacy_Triconex_Product_Vulnerabilities_Security_Bulletin_V2.1.pdf&p_Doc_Ref=SESB-2020-105-01)
 
 ---
 
@@ -36,7 +55,7 @@ _22/07/2020_
 ```
 The hackers would have targeted cellular routers in order to get into the systems.
 The April attacks appeared to target several water and sewage treatment facilities.
-Last week's attacks were aimed at smaller water pumping systems in the agricultural sector.
+/ast week's attacks were aimed at smaller water pumping systems in the agricultural sector./
 According to Securityweek, the attackers managed to get into the system without causing significant damage.
 The recent cyber attacks on a major Iranian port appear to be Israel's response, although neither side has admitted to launching an attack.
 ```
@@ -369,7 +388,7 @@ The EKANS/SNAKE ransom paralyses 11 Honda factories (5 in the USA, 2 in Brazil, 
 This ransomware has features that target industrial systems.
 In the case of Honda or Enel group, the RDP track open on the Internet is privileged. 
 ```
-Publication FR : [EKANS ransomware PDF](https://github.com/CyberSecICS/CyberSecICS.github.io/blob/master/Publications/2020_04_04_EKANS_RANSOMWARE.pdf)
+Publication FR : [EKANS ransomware PDF](https://github.com/CyberICS/CyberICS.github.io/blob/master/Publications/2020_04_04_EKANS_RANSOMWARE.pdf)
 
 > ###### IOC EKANS/SNALE
 >
