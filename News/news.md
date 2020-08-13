@@ -1,7 +1,90 @@
 # Industrial cybersecurity news
 
 ---
-## [VULNERABILITES] Schneider Electric Triconex 
+## [VULNERABILITY] Siemens
+_11/08/2020_
+```
+Vulnerability affects:
+- RUGGEDCOM RM1224 versions prior to 6.3
+- SCALANCE M-800 / S615 versions prior to 6.3
+- Desigo CC versions V4.x without the latest security patch
+- Desigo CC versions V3.x without the latest security patch
+- Desigo CC Compact versions V4.x without latest security patch
+- Desigo CC Compact versions V3.x without latest security patch
+- SICAM WEB firmware for SICAM A8000 RTUs versions prior to V05.30
+- Automation License Manager versions prior to V6.0.8
+- SIMATIC RF350M
+- SIMATIC RF650M
+- SIMOTICS CONNECT 400
+
+Vulnerability risks:
+- Remote execution of arbitrary code
+- Data Integrity Breaches
+- Breach of confidentiality of data
+- Elevation of privileges
+- Indirect remote code injection (XSS)
+```
+
+> ###### Sources :
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-809841.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-786743.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-370042.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-388646.pdf)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-712518.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2020-8597](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-8597)
+> - [EN] [CVE-2020-10055](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10055)
+> - [EN] [CVE-2020-15781](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15781)
+> - [EN] [CVE-2020-7583](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7583)
+> - [EN] [CVE-2019-15126](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-15126)
+
+---
+## [VULNERABILITY] Schneider Electric 
+_11/08/2020_
+```
+Vulnerability affects:
+- APC Easy UPS On-Line versions prior to V2.1
+- Schneider Electric Modbus Serial Driver (64 bit) versions prior to V3.20 IE 30
+- Schneider Electric Modbus Serial Driver (32 bit) versions prior to V2.20 IE 30
+- Schneider Electric Modbus Driver Suite versions prior to V14.15.0.0
+- spaceLYnk versions prior to V2.5.1
+- Wiser for KNX (formerly homeLYnk) versions prior to V2.5.1
+- PowerChute Business Edition versions prior to V9.1
+- SoMove versions prior to V2.8.2
+- Harmony eXLhoist versions prior to V04.00.03.00
+- Modicon M218 Logic Controller versions prior to V5.0.0.8
+
+Vulnerability risks:
+- Remote execution of arbitrary code
+- Remote denial of service
+- Circumvention of security policy
+- Breach of confidentiality of data
+- Elevation of privileges
+```
+> ###### CVE :
+> - [EN] [CVE-2020-7527](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7527)
+> - [EN] [CVE-2019-19193](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19193)
+> - [EN] [CVE-2020-7526](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7526)
+> - [EN] [CVE-2020-7521](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7521)
+> - [EN] [CVE-2020-7522](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7522)
+> - [EN] [CVE-2020-7524](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7524)
+> - [EN] [CVE-2020-7525](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7525)
+> - [EN] [CVE-2020-7523](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7523)
+
+> ###### Sources :
+ - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-224-04)
+ - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-224-01)
+ - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-224-02)
+ - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-224-05)
+ - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-224-07)
+ - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-224-06)
+ - [EN] [Schneider Electric](https://www.se.com/ww/en/download/document/SEVD-2020-224-03)
+ - [FR] [CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-493/)
+
+
+---
+## [VULNERABILITY] Schneider Electric Triconex 
 _31/07/2020_
 ```
 The following equipment is affected by several vulnerabilities (RCE, DoS and data leak) :
@@ -22,7 +105,7 @@ The following equipment is affected by several vulnerabilities (RCE, DoS and dat
 
 ---
 
-## [VULNERABILITES] Industrial VPN servers
+## [VULNERABILITY] Industrial VPN servers
 
 _28/07/2020_
 ```
@@ -68,7 +151,7 @@ The recent cyber attacks on a major Iranian port appear to be Israel's response,
 
 ---
 
-## [VULNERABILITES] Siemens
+## [VULNERABILITY] Siemens
 
 _16/07/2020_
 ```
@@ -139,7 +222,7 @@ The products affected are :
 
 ---
 
-## [VULNERABILITES] Moxa MGate 5105-MB-EIP
+## [VULNERABILITY] Moxa MGate 5105-MB-EIP
 
 _14/07/2020_
 ```
@@ -155,7 +238,7 @@ Two vulnerabilities have been discovered in the Moxa MGate 5105-MB-EIP product (
 - [EN] [Moxa patch page](https://www.moxa.com/en/support/product-support/software-and-documentation/search?psid=50026)
 
 ---
-## [VULNERABILITES] Ripple20 - update
+## [VULNERABILITY] Ripple20 - update
 
 _30/06/2020_
 ```
@@ -182,7 +265,7 @@ The French newspaper l'Express revealed that a custom version of the Blackenergy
 - [FR] [L'Express](https://www.epresse.fr/magazine/l-express/2020-06-25/sommaire)
 
 ---
-## [VULNERABILITES] FactoryTalk - Rockwell Automation
+## [VULNERABILITY] FactoryTalk - Rockwell Automation
 
 _24/06/2020_
 ```
@@ -198,7 +281,7 @@ By exploiting this vulnerability an attacker can execute remote code with high p
 - [EN] [Rockwell Automation - login required](https://rockwellautomation.custhelp.com/app/answers/detail/a_id/1126946)
 
 ---
-## [VULNERABILITES] Mitsubishi Electric and its subsidiary ICONICS
+## [VULNERABILITY] Mitsubishi Electric and its subsidiary ICONICS
 
 _23/06/2020_
 ```
@@ -224,7 +307,7 @@ The following pieces of equipment are also affected:
 - [EN] [Security Week](https://www.securityweek.com/mitsubishi-patches-vulnerabilities-disclosed-ics-hacking-contest)
 
 ---
-## [VULNERABILITES] OSIsoft PI System
+## [VULNERABILITY] OSIsoft PI System
 
 _22/06/2020_
 ```
@@ -244,7 +327,7 @@ A patch has been released.
 - [EN] [Patch - loggin required](https://customers.osisoft.com/s/knowledgearticle?knowledgeArticleUrl=000028352)
 
 ---
-## [VULNERABILITES] Ripple20
+## [VULNERABILITY] Ripple20
 
 _18/06/2020_
 ```
@@ -276,7 +359,7 @@ _18/06/2020_
 > [Cybereason](https://www.cybereason.com/blog/cybereason-honeypot-multistage-ransomware)
 
 ---
-## [VULNERABILITES] Multiple important vulnerabilities on Schneider-electric products
+## [VULNERABILITY] Multiple important vulnerabilities on Schneider-electric products
 
 _17/06/2020_
 ```
@@ -323,7 +406,7 @@ Several Schneider-electric products are impacted by important vulnerabilities:
 
 
 ---
-## [VULNERABILITIES] Rockwell 
+## [VULNERABILITY] Rockwell 
 
 _15/06/2020_
 ```
@@ -350,7 +433,7 @@ The following products are impacted :
 
 
 ---
-## [VULNERABILITIES] Moxa EDR-G902/G903
+## [VULNERABILITY] Moxa EDR-G902/G903
 
 _15/06/2020_
 ```
@@ -364,7 +447,7 @@ A patch has been released.
 
 
 ---
-## [VULNERABILITIES] Mitsubishi Controllers MELSEC iQ-R
+## [VULNERABILITY] Mitsubishi Controllers MELSEC iQ-R
 
 _12/06/2020_
 ```
@@ -420,7 +503,7 @@ On [VMware carbonblack](https://www.carbonblack.com/2020/01/27/threat-analysis-u
   - [EN] [Dragos](https://www.dragos.com/blog/industry-news/ekans-ransomware-and-ics-operations/)
 
 ---
-## [VULNERABILITIES] Schneider Electric Easergy
+## [VULNERABILITY] Schneider Electric Easergy
 
 _10/06/2020_
 ```
@@ -444,7 +527,7 @@ _10/06/2020_
 
 ---
 
-## [VULNERABILITIES] Siemens
+## [VULNERABILITY] Siemens
 _09/10/2020_
 
 ```
