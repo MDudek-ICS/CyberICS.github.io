@@ -1,6 +1,69 @@
 # Industrial cybersecurity news
 
 ---
+## [VULNERABILITY] Cisco IOS Software
+_25/09/2020_
+```
+Vulnerability affects:
+- 807 Industrial ISR avec une interface VLPWA activée
+- 809 Industrial ISR avec une interface VLPWA activée
+- 829 Industrial ISR avec une interface VLPWA activée
+- Routeurs CGR1000 avec une interface VLPWA activée
+
+Vulnerability risks:
+- remote denial of service and 
+- data privacy breach
+
+If this command returns information, the equipment is vulnerable:
+show control-plane host open-ports
+```
+
+> ###### Sources :
+- [FR] [ANSSI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-602/)
+- [EN] [Cisco](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-lpwa-access-cXsD7PRA)
+
+> ###### CVE :
+> - [EN] [CVE-2020-3426](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-3426)
+
+
+---
+## [RESSOURCES] 
+_25/09/2020_
+
+> [EN] [Kaspersky ICS CERT](https://ics-cert.kaspersky.com/media/KASPERSKY_H1_2020_ICS_REPORT_EN.pdf)
+
+The report looks back at the WildPressure campaign in the Middle East with the Milum malware. Kaspersky also returns to the campaign against Azerbaijan with the RAT PoetRAT and the attacks on water plants in Israel.
+
+---
+
+## [VULNERABILITY] Wibu-Systems AG
+_25/09/2020_
+```
+Vulnerability affects this vendor:
+- ABB
+- CODESYS
+- Copa-Data
+- Pepperl+Fuchs
+- Phoenix Contact
+- Pilz Automation
+- Rockwell Automation
+- Schneider Electric
+- Siemens
+- Wago
+
+Vulnerability risks:
+- memory corruption
+- remote code execution without authentication
+```
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-203-01)
+- [EN] [WIBU](https://www.wibu.com/en/support/security-advisories.html)
+- [EN] [Claroty](https://github.com/ClarotyICS/License-to-Kill)
+
+> ###### CVE :
+> - [EN] [CVE-2020-3426](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-3426)
+
+---
 ## [VULNERABILITY] Siemens
 _11/08/2020_
 ```
